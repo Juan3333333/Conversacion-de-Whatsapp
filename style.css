@@ -1,8 +1,37 @@
-.chat {
+.titulo{
+    border: 0.1em solid black;
+    text-justify: auto;
+    margin-left: 5em;
     background-color:white;
-    padding: 20em;
+    margin-right: 5em;
+    text-align: center;
 }
-.Chistes {
-    color: green;
-
+.rectangulo{
+    background-color: gray;
+    border: 0.1em solid black;
+    margin-left: 5em;
+    margin-right: 10em;
+    border-top-right-radius: 1rem;
+    border-top-left-radius: 1rem;
 }
+.subtitulo{
+   margin-left: 5em;
+   margin-right: 5em;
+   padding-left: 0em;
+   color:black
+}
+.Rectangulo{
+    background-color: green;
+    border: 0.1em solid black;
+    margin-left: 5em;
+    margin-right: 20em;
+    border-top-right-radius: 1rem;
+    border-top-left-radius: 1rem;
+}
+.mensaje1{
+    margin-left: 0em;
+    margin-right: 0em;
+    padding-left: 0em;
+    color:black
+ } 
+ .REctangulo{}
